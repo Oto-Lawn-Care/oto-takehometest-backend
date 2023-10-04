@@ -1,7 +1,7 @@
 # oto-takehometest-kindle
 ### Take home coding test - Kindle backend
 
-Thank you for chosing to interview with OtO! Below are the instructions for your take home coding test:
+Thank you for choosing to interview with OtO! Below are the instructions for your take home coding test:
 
 1. The details of your task are mentioned in the `TASK.md` file
 
